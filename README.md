@@ -25,3 +25,6 @@
       - SITE should be set to point (this is a potential feature for a future release)
   
  5. Run the code and view the results and log files
+
+
+All results are available as equivalency files online: https://bitbucket.org/hlevin/redistricting-results
